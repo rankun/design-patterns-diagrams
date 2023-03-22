@@ -6,4 +6,4 @@ classDiagram
         +getInstance(): LazyInit
     }
     LazyInit --|> LazyInit: instance
-    ```
+```
