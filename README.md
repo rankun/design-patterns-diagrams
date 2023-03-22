@@ -6,5 +6,5 @@ Mermaid is a diagramming and charting tool that uses a simple markdown-like synt
 
 <b>Creational Patterns:</b>
 
-<p>Singleton:</p>  https://github.com/rankun/design-patterns-diagrams/blob/main/singleton.md
-<p>Creator:</p> https://github.com/rankun/design-patterns-diagrams/blob/main/creator.md
+<p>Singleton: https://github.com/rankun/design-patterns-diagrams/blob/main/singleton.md</p> 
+<p>Creator: https://github.com/rankun/design-patterns-diagrams/blob/main/creator.md</p>
