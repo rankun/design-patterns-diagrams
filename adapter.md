@@ -17,4 +17,4 @@ classDiagram
     Client -- Target
     Target <|-- Adapter
     Adapter o-- Adaptee
-    ```
+```
